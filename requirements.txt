@@ -1,0 +1,5 @@
+opencv-python
+pytesseract
+mediapipe
+pyttsx3
+SpeechRecognition
